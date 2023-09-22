@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
+import logo from '../Branding/Tata-iMali-logo-colour-transparent.png';
 import 'react-toastify/dist/ReactToastify.css';
 import './creditScore.css';
 import Creditdata from './creditScoringAlgo/MockCreditScoreData.json';
@@ -39,6 +40,9 @@ function CreditScore() {
 
   return (
     <div className="credit-score-container">
+      <div className="logo-container">
+        <img src={logo} alt="Logo" className="token-logo" />
+      </div>  
       <h2 className="form-heading">Credit Score Prediction</h2>
       <p className="info-text">Enter user ID to predict credit score</p>
       <div className="input-container">

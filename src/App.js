@@ -132,13 +132,13 @@ function App() {
                     </Link>
                   </li>
                   <li>
-                    <Link to="/checkrequests" className="nav-link">
-                      Check Requests
+                    <Link to="/creditscore" className="nav-link">
+                      Credit Score
                     </Link>
                   </li>
                   <li>
-                    <Link to="/creditscore" className="nav-link">
-                      Credit Score
+                    <Link to="/checkrequests" className="nav-link">
+                      Check Requests
                     </Link>
                   </li>
                 </>
