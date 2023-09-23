@@ -1,6 +1,7 @@
 # Tata-iMali - Revolutionizing Micro-Credit on Hedera
 
 ![Tata-iMali Logo](./src/Branding/Tata-iMali-logo-colour-transparent.png)
+![Hedera Logo](./src/Branding/hedera-logo.png)
 
 ## Table of Contents
 
