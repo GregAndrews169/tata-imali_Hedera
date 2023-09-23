@@ -1,12 +1,6 @@
 # Tata-iMali - Revolutionizing Micro-Credit on Hedera
 
 ![Tata-iMali Logo](./src/Branding/Tata-iMali-logo-colour-transparent.png)
-![Hedera Logo](./src/Branding/hedera-logo.png)
-
-<!-- Center-align the logo and make it smaller -->
-<p align="center">
-  <img src="./src/Branding/hedera-logo.png" alt="Hedera Logo" width="200">
-</p>
 
 ## Table of Contents
 
