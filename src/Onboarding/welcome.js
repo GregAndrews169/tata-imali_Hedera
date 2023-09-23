@@ -13,7 +13,7 @@ function WelcomeScreen() {
         <h2>Welcome </h2>
         <p id="usersName">Jérôme</p>
         <div className="logo-container">
-        <img src={dp} alt="Logo" className="logooo" />
+        <img src={dp} alt="ProfilePicture" className="Jermonee" />
       </div>
         <p id="welcome-info-text" >Your personal financial revolution awaits</p>
       </div>
