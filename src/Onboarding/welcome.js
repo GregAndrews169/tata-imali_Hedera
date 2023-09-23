@@ -11,7 +11,7 @@ function WelcomeScreen() {
       </div>
       <div className="welcome-message">
         <h2>Welcome </h2>
-        <p id="usersName">Jérôme</p>
+        <p id="usersName">Donel</p>
         <div className="logo-container">
         <img src={dp} alt="ProfilePicture" className="Jermonee" />
       </div>
